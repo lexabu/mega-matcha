@@ -1,0 +1,65 @@
+{
+  "recommendations": [
+    // Essential for TypeScript development
+    "ms-vscode.vscode-typescript-next",
+
+    // Code formatting and linting
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+
+    // Tailwind CSS support
+    "bradlc.vscode-tailwindcss",
+
+    // React development
+    "ms-vscode.vscode-react-pack",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+
+    // Git integration
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+
+    // Testing
+    "ms-playwright.playwright",
+    "orta.vscode-jest",
+
+    // Docker support
+    "ms-azuretools.vscode-docker",
+
+    // Environment files
+    "mikestead.dotenv",
+
+    // Markdown support
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced",
+
+    // Icons and themes
+    "pkief.material-icon-theme",
+    "zhuangtongfa.material-theme",
+    "johnpapa.vscode-peacock",
+
+    // Utilities
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "gruntfuggly.todo-tree",
+    "alefragnani.bookmarks",
+    "ms-vscode.hexeditor",
+    "ms-vscode-remote.remote-containers",
+
+    // JSON and YAML
+    "redhat.vscode-yaml",
+    "ms-vscode.json",
+
+    // Path intellisense
+    "christian-kohler.path-intellisense",
+
+    // Import helpers
+    "steoates.autoimport-es6-ts",
+
+    // Better comments
+    "aaron-bond.better-comments",
+
+    // REST client
+    "humao.rest-client"
+  ]
+}

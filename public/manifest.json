@@ -1,0 +1,41 @@
+{
+  "name": "Mega Matcha - Premium Matcha Experience",
+  "short_name": "Mega Matcha",
+  "description": "Discover the finest matcha products and experience the authentic taste of Japanese tea culture.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3d8f3d",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["food", "lifestyle", "health"],
+  "shortcuts": [
+    {
+      "name": "Browse Products",
+      "short_name": "Products",
+      "description": "Browse our premium matcha collection",
+      "url": "/products",
+      "icons": [
+        {
+          "src": "/icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
